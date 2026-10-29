@@ -8,7 +8,7 @@
 
 </div>
 
-💗 About me
+💗 About me <br>
 I'm a Software Engineering student at the Federal University of Ceará (UFC), Brazil, interested in software development, UI/UX, and requirements Analysis.
 
 - I enjoy building software and finding practical solutions to real problems.
